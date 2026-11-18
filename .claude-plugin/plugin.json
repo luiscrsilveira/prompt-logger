@@ -1,0 +1,5 @@
+{
+  "name": "prompt-logger",
+  "version": "1.0.0",
+  "description": "Toggle prompt logging: each session becomes a folder and each prompt becomes a file named by its submission time."
+}
